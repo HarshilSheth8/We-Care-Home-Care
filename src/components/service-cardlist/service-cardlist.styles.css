@@ -1,0 +1,11 @@
+.container-fluid .row{
+    padding-top: 4rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cardlist{
+    justify-content: center;
+    /* justify-content:space-around; */
+}
